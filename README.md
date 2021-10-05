@@ -9,11 +9,14 @@ Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Com
 Cada pessoa deve ter ao menos 1 entrada.
 
 
-Cada entrada deverá ter ao menos:
-1. O seu nome.
-2. Imagem sua ou que represente algo relacionado ao seu hobbie.
-3. Comentário sobre o seu relacionamento com a TI.
+## Fato sobre <Jonatas>
 
+1. Jonatas Medina Braga
+
+2. Olá, sou Jonatas Medina, gosto de passas o tempo livre desfrutando de uma das maravilhas da programação, Com a nomenclatura "JOGOS".
+
+3. Minha história com o ramo de TI é bem recente, vivi até os 14 anos de idade sem ter acesso a internet, ao completar 18 eu me identifiquei com área de TI, tentei ingressar em uma faculdade militar, mas não foi possível realizar esse meu desejo, em 2020 eu comecei a trabalhar em uma pequena loja de assistência técnica e serviços de chaveiro, tive que pedi demissão, porquê as contas entre salario e transporte não batiam.
+Fiquei sem fazer nada por muito tempo até ver o anuncio da Kenzie no Instagran. E agora aqui estou, firme, forte e confiante.
 __O uso de Branches é obrigatório.__
 
 ## Como Enviar?
