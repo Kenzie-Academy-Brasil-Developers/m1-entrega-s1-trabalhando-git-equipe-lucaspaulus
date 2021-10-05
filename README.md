@@ -10,9 +10,9 @@ Cada pessoa deve ter ao menos 1 entrada.
 
 
 Cada entrada deverá ter ao menos:
-1. O seu nome.
-2. Imagem sua ou que represente algo relacionado ao seu hobbie.
-3. Comentário sobre o seu relacionamento com a TI.
+1. Lucas Paulus.
+2. sou uma pessoa que gosta de estudar ,tocar piano e jogar xadrez quando da vontade.
+3. Meu primeiro contato com programação. foi na faculdade de engenharia civil, depois que vi que era o que eu realmente queria para minha vida, eu resolvi mudar de área, fiz varios cursos e projetos com o wordpress, pois só sabia o basico de html e css entao resolvi usar o wordpress para fazer alguns sites. participei dos processos seletivos da kenzie e das lives, me apaixonei pela kenzie s2 e pela programação, e hoje estou aqui fazendo o que eu amo, que é codar.
 
 __O uso de Branches é obrigatório.__
 
